@@ -41,3 +41,8 @@ import Component from "path"
 - Written inside React
 - useState() - Superpowerful State Variables in react
 - useEffect()
+
+# 2 types of Routing in we apps
+
+- Client side Routing
+- Server side Routing
